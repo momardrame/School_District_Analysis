@@ -2,12 +2,23 @@
 
 # School District Analysis
 
-## Objective
+## Project Overview
 In a school district dataset, the  average scores for ninth graders from one high school are incorrect. This project aims to replace the math and reading scores for that high school, before reassessing academic performance for the school district.
 
-5.  After replacing the reading and math scores, complete the following steps and answer the questions for each step.
+## Resources
+Data Source: charity_data.csv
+Software: Jupyter Notebook, Python
 
-## How is the district summary affected?
+## Objective
+The goals are to:
+- Filter DataFrames using logical operators.
+- Replace the incorrect values with NaN.
+- Explain how your PyCitySchools analysis changes after handling the incorrect data.  
+
+## Summary
+After replacing the reading and math scores, complete the following steps and answer the questions for each step.
+
+### How is the district summary affected?
 The altered district summary produced a lower percentage for passing Math, Reading and the Overall passing scores decreased
 
 #### Original District Summary                 
