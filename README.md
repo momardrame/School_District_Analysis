@@ -1,4 +1,4 @@
-# School District Analysi
+# School District Analysis
 
 ## Objective
 In a school district dataset, the  average scores for ninth graders from one high school are incorrect. This project aims to replace the math and reading scores for that high school, before reassessing academic performance for the school district.
