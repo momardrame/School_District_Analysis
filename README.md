@@ -82,3 +82,11 @@ The altered district summary produced a lower percentage for passing Math, Readi
   Altered dataframe compared to the original dataframe.
  - For the remaining  Charter and District School Type; in the Original and Altered dataframe the Average Math Score and Average Reading                  
     score experienced a very slight change in their scores.
+
+
+## Background
+## Project Overview
+## Resources
+## Data Source
+## Machine Learning Model
+## Findings and Recommendation
