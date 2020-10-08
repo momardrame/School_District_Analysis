@@ -6,7 +6,7 @@
 In a school district dataset, the  average scores for ninth graders from one high school are incorrect. This project aims to replace the math and reading scores for that high school, before reassessing academic performance for the school district.
 
 ## Resources
-Data Source: charity_data.csv
+Data Source: clean_students_complete.csv, missing_grades.csv, schools_complete.csv and students_complete.csv
 Software: Jupyter Notebook, Python
 
 ## Objective
