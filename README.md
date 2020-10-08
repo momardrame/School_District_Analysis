@@ -1,4 +1,4 @@
-<img src="Resources/bike.jpg" alt="drawing" width="300"/>
+<img src="Resources/school.png" alt="drawing" width="300"/>
 
 # School District Analysis
 
